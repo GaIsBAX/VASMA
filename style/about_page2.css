@@ -1,0 +1,26 @@
+.posotion__pages{
+    background-color: var(--bg-purple);
+    color: var(--co-black);
+    /* display: flex;
+    justify-content: start;
+    align-items: start; */
+}
+
+
+.position_wrapper{
+    height: 70px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 0 15px;
+}
+
+
+.posotion__text {
+    font-size: 13px;
+    font: 700;
+}
+.posotion__pages-icon {
+    width: 10px;
+    height: 10px;
+}
